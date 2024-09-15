@@ -1,7 +1,7 @@
 Introducing Hunger Sol, an ultimate food delivery application that combines delectable flavors with seamless technology. Designed with Figma, this app redefines the dining 
 experience by bringing your favorite meals to your doorstep, effortlessly.
-(https://www.figma.com/design/rSt9KVLn0oyGwwY43LgOuB/hunger-sol?m=auto&t=xyS68N4ZzEUhCn9u-6)
 
+https://www.figma.com/proto/rSt9KVLn0oyGwwY43LgOuB/hunger-sol?node-id=368-67996&node-type=instance&t=iBvW2If8GtKfCXDA-0&scaling=scale-down&content-scaling=fixed&page-id=2%3A3&starting-point-node-id=368%3A67996&show-proto-sidebar=1
 
 KEY FEATURES OF HUNGER SOL
 
@@ -51,4 +51,4 @@ KEY FEATURES OF HUNGER SOL
   Icons and Graphics: Custom-designed icons and graphics add a playful element, enhancing the app's aesthetic appeal
 
   Find the Figma Link here:
-  https://www.figma.com/design/rSt9KVLn0oyGwwY43LgOuB/hunger-sol?m=auto&t=xyS68N4ZzEUhCn9u-6
+https://www.figma.com/proto/rSt9KVLn0oyGwwY43LgOuB/hunger-sol?node-id=368-67996&node-type=instance&t=iBvW2If8GtKfCXDA-0&scaling=scale-down&content-scaling=fixed&page-id=2%3A3&starting-point-node-id=368%3A67996&show-proto-sidebar=1
